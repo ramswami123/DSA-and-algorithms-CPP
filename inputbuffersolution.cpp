@@ -8,7 +8,7 @@ int main()
   string b;
   cin>>a;
 
-  cin.sync();
+  cin>>ws;
   cin>>b;
 
   cout<<a<<endl;
