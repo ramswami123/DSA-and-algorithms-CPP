@@ -8,3 +8,4 @@ int main(){
     cout<<func(x);
     return 0;
 }
+//gives outputs 1, if input int is power of 2
