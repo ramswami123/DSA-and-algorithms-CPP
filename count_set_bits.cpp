@@ -2,7 +2,7 @@
 using namespace std;
 int set_func(int n){
     int set_count=0;
-    while(n<0){
+    while(n>0){
         n=(n&(n-1));
         set_count++;
     }
