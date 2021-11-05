@@ -1,5 +1,6 @@
 #include<iostream>
 #include<bitset>//to deal with bitset operators
+using namespace std;
 int main(){
 	//create biset and assigning to variable
 	bitset<10>b(4);
